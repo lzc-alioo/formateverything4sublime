@@ -1,16 +1,20 @@
 {
-    "schema_version": "1.0",
+    "schema_version": "1.2",
     "packages": [{
         "name": "formateverything",
         "description": "Format everything and challenge the existing formatting plug-ins that rely on filename suffixes to intelligently resolve and format by recognizing grammar, lexicalization ",
         "author": "alioo<lzc.java@icloud.com>",
         "homepage": "https://github.com/lzc-alioo",
-        "last_modified": "2017-11-14",
+        "readme": "https://github.com/lzc-alioo/formateverything4sublime/blob/master/README.md",
+        "last_modified": "2017-11-14 22:49:00",
         "platforms": {
             "*": [{
                 "version": "1.0",
-                "url": "https://nodeload.github.com/你的用户名/插件名/zip/tag名"
+                "url": "https://nodeload.github.com/lzc-alioo/formateverything4sublime/zip/1.0"
             }]
         }
     }]
 }
+
+
+
