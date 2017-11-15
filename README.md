@@ -12,9 +12,9 @@ this key likes IntelliJ IDEA format key 格式化快捷键与IntelliJ IDEA相同
 `ctrl+alt+l`
 
 ## open source
-[formateverything4sublime]https://github.com/lzc-alioo/formateverything4sublime.git
+* [formateverything4sublime]https://github.com/lzc-alioo/formateverything4sublime.git
 
-[FormatEveryThing](https://gitee.com/alioo/FormatEveryThing)
+* [formateverythingutil](https://github.com/lzc-alioo/formateverythingutil.git)
 
 ## you can use it to format 你可以利用它来格式化
 * xml
