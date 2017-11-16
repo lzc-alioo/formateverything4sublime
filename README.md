@@ -11,7 +11,7 @@ Format everything and challenge the existing formatting plug-ins that rely on fi
 this key likes IntelliJ IDEA format key 格式化快捷键与IntelliJ IDEA相同
 `ctrl+alt+l`
 
-## open source
+## open source 源代码
 * [formateverything4sublime]https://github.com/lzc-alioo/formateverything4sublime.git
 
 * [formateverythingutil]https://github.com/lzc-alioo/formateverythingutil.git
