@@ -21,9 +21,8 @@ this key likes IntelliJ IDEA format key 格式化快捷键与IntelliJ IDEA相同
 * json
 * sql
 
-## todo
-- [ ] java
-- [ ] html
+## remarks 备注
+In order to better format the data, we will use the remote central server to process and iterate the formatting tool. Do not use if you mind, and we will not use the data for any other commercialization use. 为了能够更好的格式化数据，我们会利用远程中央服务器来处理加工，并且进行迭代这款格式化工具，如果你介意一点请不要使用，慎重承诺，我们不会利用该数据做任何其它商业化用途。
 
 
 
